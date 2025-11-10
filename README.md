@@ -82,4 +82,3 @@ return 0;
 
 # RESULT:
 The program is executed successfully.
-](https://github.com/YazhiniRR/Linux-IPC-Pipes)
